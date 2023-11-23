@@ -8,7 +8,7 @@ const devilcanyon = () => {
   return (
     <div className="scrollable-page bg-devil w-full h-full bg-local bg-cover bg-center">
       <h3 className="flex justify-center items-center text-4xl font-nomark mt-5">
-        Devil's Canyon
+        Devil&apos;s Canyon
       </h3>
       <div className="flex justify-center items-center m-5">
         <iframe

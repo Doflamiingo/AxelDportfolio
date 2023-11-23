@@ -73,14 +73,15 @@ const About = () => {
           exit="hidden"
           className="text-white text-base xl:text-xl "
         >
-          La musique est ma principale source d'inspiration, celle qui donne vie
-          à chacune de mes œuvres visuelles. C'est cette passion pour la musique
-          qui anime et donne vie à mes photographies et vidéos. L'une des
-          expériences uniques que je souhaite offrir à mes visiteurs est la
-          possibilité d'explorer mes projets tout en étant bercés par la musique
-          qui les a inspirés. Chaque page de mon portfolio vous permettra donc
-          de plonger dans une ambiance musicale spécifique correspondant à
-          l'essence du projet présenté.
+        La musique est ma principale source d&apos;inspiration, celle qui donne vie
+à chacune de mes œuvres visuelles. C&apos;est cette passion pour la musique
+qui anime et donne vie à mes photographies et vidéos. L&apos;une des
+expériences uniques que je souhaite offrir à mes visiteurs est la
+possibilité d&apos;explorer mes projets tout en étant bercés par la musique
+qui les a inspirés. Chaque page de mon portfolio vous permettra donc
+de plonger dans une ambiance musicale spécifique correspondant à
+l&apos;essence du projet présenté.
+
         </motion.p>
         <motion.button
           variants={fadeInButton}
